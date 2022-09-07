@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(name, Some(78e141d0-1dac-475e-8dae-ef29054f48de), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: name[0m
+[0m[[0m[0minfo[0m] [0m[0msbt101[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
